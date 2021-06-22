@@ -1,0 +1,6 @@
+﻿  C_Program_for_Round_Robin_RR.cpp
+C:\Users\nhan6\source\repos\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'Process' when no variable is declared
+C:\Users\nhan6\source\repos\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR.cpp(65,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nhan6\source\repos\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR.cpp(76,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nhan6\source\repos\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR\C_Program_for_Round_Robin_RR.cpp(79,27): warning C4018: '<': signed/unsigned mismatch
+  C_Program_for_Round_Robin_RR.vcxproj -> C:\Users\nhan6\source\repos\C_Program_for_Round_Robin_RR\Debug\C_Program_for_Round_Robin_RR.exe

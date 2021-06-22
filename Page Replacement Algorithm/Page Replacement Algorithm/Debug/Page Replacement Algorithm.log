@@ -1,0 +1,5 @@
+﻿  Page Replacement Algorithm.cpp
+E:\Downloads\RepositoryGit\OperatorSystem\Page Replacement Algorithm\Page Replacement Algorithm\Page Replacement Algorithm.cpp(90,9): warning C4101: 'fault': unreferenced local variable
+E:\Downloads\RepositoryGit\OperatorSystem\Page Replacement Algorithm\Page Replacement Algorithm\Page Replacement Algorithm.cpp(165,9): warning C4101: 'fault': unreferenced local variable
+E:\Downloads\RepositoryGit\OperatorSystem\Page Replacement Algorithm\Page Replacement Algorithm\Page Replacement Algorithm.cpp(241,9): warning C4101: 'fault': unreferenced local variable
+E:\Downloads\RepositoryGit\OperatorSystem\Page Replacement Algorithm\Page Replacement Algorithm\Page Replacement Algorithm.cpp(371): error C4703: potentially uninitialized local pointer variable 'sequence' used

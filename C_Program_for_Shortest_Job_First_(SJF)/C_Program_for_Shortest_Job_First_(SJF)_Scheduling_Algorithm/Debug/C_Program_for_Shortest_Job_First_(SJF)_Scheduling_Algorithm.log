@@ -1,0 +1,5 @@
+﻿  C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm.cpp
+C:\Users\nhan6\source\repos\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm.cpp(14,2): warning C4091: 'typedef ': ignored on left of 'Process' when no variable is declared
+C:\Users\nhan6\source\repos\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm.cpp(59,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nhan6\source\repos\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm.cpp(62,28): warning C4018: '<': signed/unsigned mismatch
+  C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm.vcxproj -> C:\Users\nhan6\source\repos\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm\Debug\C_Program_for_Shortest_Job_First_(SJF)_Scheduling_Algorithm.exe
